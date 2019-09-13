@@ -1,0 +1,8 @@
+echo "What a beautiful day it is today!"
+echo "Lets count to ten for fun!"
+
+for fun in {1..10}
+do 
+echo $fun
+done 
+
