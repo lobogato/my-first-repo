@@ -1,0 +1,1 @@
+echo "What a beautiful day it is today!!"
