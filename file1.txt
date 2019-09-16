@@ -1,6 +1,0 @@
-echo "Lets count to ten for fun!"
-
-for fun in {1..10}
-do 
-echo $fun
-done 
