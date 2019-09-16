@@ -11,7 +11,7 @@ Three of my favorite books are:
 
 - *The Eye of the World* by Robert Jordan
 - *Ready Player One* by unknown author
-- *Catcher in the Rye" by S.D. Salinger
+- *Catcher in the Rye* by S.D. Salinger
 
 ### Food
 
